@@ -1,79 +1,50 @@
 <div align="center">
 
-<br><br>
+# Abhinav Rajesh
 
-<img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=24&duration=3000&pause=900&color=C68E5D&center=true&vCenter=true&width=650&lines=Goof;Head+of+OSINTNova+(BoSINT);First+Decree+Chief+of+Projects+Moderation;Reverse+Engineering+%7C+OSINT+%7C+Pentesting+%7C+Backend+Dev" alt="Typing SVG" />
+**Offensive Security · OSINT · Reverse Engineering · Backend Development**
+
+B.Tech CSE @ Vel Tech, Chennai · Director of Operations @ [OSINTNova](https://osintnova.com) · Head, CyberSentinel Club
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-localhostexe-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/localhostexe)
+[![OSINTNova](https://img.shields.io/badge/OSINTNova-osintnova.com-111827?style=flat-square)](https://osintnova.com)
+[![Discord](https://img.shields.io/badge/Discord-goofisded-5865F2?style=flat-square&logo=discord&logoColor=white)](#)
 
 </div>
 
-<br>
+---
 
-## About Me
+### About
 
-- Head of **OSINTNova (BoSINT)**
-- **First Decree Chief** of Projects Moderation
-- Specialize in reverse engineering, OSINT, pentesting, and backend development
+I'm a Computer Science undergraduate focused on offensive security and building secure systems.
 
-<br>
+- **OSINTNova** – Director of Operations: run community and team operations, grow the team, and build partnerships around OSINT and security work
+- **First Decree** – Chief of Projects Moderation
+- **CyberSentinel Club, VelTech** – Head: teach students from beginner to advanced level through hands-on sessions
 
-## Roles
+### Current work
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+| Project | What it is |
+| --- | --- |
+| [**Strix**](https://github.com/usestrix/strix) – open-source contribution | Fixed LLM connection failures with Mistral reasoning models and other OpenAI-compatible servers that return message content as a list of blocks ([PR #1663](https://github.com/usestrix/strix/pull/1663)) |
+| **SentinelMail** – Smart India Hackathon 2026 | AI-powered email threat detection and forensics platform, built with team HopZero (PS SIH26106, Cybersecurity) |
 
-**OSINTNova (BoSINT)**
-Head
+### Focus areas
 
-</td>
-<td width="50%" valign="top">
+`Penetration Testing` `OSINT` `Reverse Engineering` `Email Security` `Backend Development`
 
-**Projects Moderation**
-First Decree Chief
+### Tech
 
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,go,rust,js,ruby,cs,linux&theme=dark" />
 
-<br>
+### Certifications
 
-## Organizations
+- Foundations of Ethical Hacking – [Hack Smarter Labs](https://www.hacksmarter.org/completion/19c0f8e6219d697c)
+- Challenge Lab: Walnut – [Hack Smarter Labs](https://www.hacksmarter.org/completion/721dccf12a37c209)
+- Challenge Lab: Kitsune – [Hack Smarter Labs](https://www.hacksmarter.org/completion/a0d118fa3a7f9946)
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<a href="https://osintnova.com">
-<img src="https://osintnova.com/static/osintnova.png" width="90"/>
-<br>
-<strong>OSINTNova</strong>
-</a>
-</td>
-<td width="50%" align="center" bgcolor="#3B2A1A">
-<a href="https://www.firstdecree.org">
-<img src="https://www.firstdecree.org/assets/img/logo.png" width="90"/>
-<br>
-<strong style="color:#EEDC82">First Decree</strong>
-</a>
-</td>
-</tr>
-</table>
-
-<br>
-
-## Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,c,go,python,js,ruby,rust,cs&theme=light" />
-
-<br>
-
-## Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-goofisdead-3B2A1A?style=for-the-badge&logo=github&logoColor=EEDC82)](https://github.com/goofisdead)
-[![Discord](https://img.shields.io/badge/Discord-goofisded-3B2A1A?style=for-the-badge&logo=discord&logoColor=EEDC82)](#)
-[![guns.lol](https://img.shields.io/badge/guns.lol-goofisdead-3B2A1A?style=for-the-badge&logoColor=EEDC82)](https://guns.lol/goofisdead)
-
-<br>
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C68E5D,50:EEDC82,100:F5DEB3&height=100&section=footer" width="100%"/>
+<sub>Open to security internships, research collaborations and CTF teams.</sub>
 </div>
