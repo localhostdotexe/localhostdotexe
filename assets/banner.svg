@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <style>
+    .mono{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
+    .t{fill:#e6edf3;font-size:22px}
+    .p{fill:#5fd1c6}
+    .d{fill:#8b98a8;font-size:16px}
+    .big{fill:#e6edf3;font-size:44px;font-weight:700;letter-spacing:2px}
+    .l1{opacity:0;animation:show .1s linear .4s forwards}
+    .l2{opacity:0;animation:show .1s linear 1.4s forwards}
+    .l3{opacity:0;animation:show .1s linear 2.4s forwards}
+    .l4{opacity:0;animation:show .1s linear 3.4s forwards}
+    .cur{animation:blink 1s steps(1) infinite}
+    .scan{animation:scan 6s linear infinite}
+    @keyframes show{to{opacity:1}}
+    @keyframes blink{50%{opacity:0}}
+    @keyframes scan{from{transform:translateY(-40px)}to{transform:translateY(320px)}}
+  </style>
+  <defs>
+    <pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#132235" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b14"/>
+      <stop offset="1" stop-color="#0d2236"/>
+    </linearGradient>
+    <linearGradient id="sl" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5fd1c6" stop-opacity="0"/>
+      <stop offset="1" stop-color="#5fd1c6" stop-opacity=".12"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="14" fill="url(#g)"/>
+  <rect class="scan" x="0" y="0" width="1200" height="40" fill="url(#sl)"/>
+  <!-- window bar -->
+  <circle cx="30" cy="26" r="6" fill="#ff5f57"/><circle cx="50" cy="26" r="6" fill="#febc2e"/><circle cx="70" cy="26" r="6" fill="#28c840"/>
+  <text x="600" y="31" text-anchor="middle" class="mono d">localhost.exe — zsh</text>
+  <!-- title -->
+  <text x="60" y="105" class="mono big">localhost<tspan class="p">.exe</tspan></text>
+  <!-- terminal lines -->
+  <text x="60" y="155" class="mono t l1"><tspan class="p">$</tspan> whoami</text>
+  <text x="60" y="185" class="mono t l2"><tspan fill="#8b98a8">&gt;</tspan> Abhinav Rajesh — B.Tech CSE @ VelTech, Chennai</text>
+  <text x="60" y="225" class="mono t l3"><tspan class="p">$</tspan> cat focus.txt</text>
+  <text x="60" y="255" class="mono t l4"><tspan fill="#8b98a8">&gt;</tspan> Offensive Security · OSINT · Reverse Engineering · Backend Dev<tspan class="cur p"> ▋</tspan></text>
+  <!-- right side node graph -->
+  <g stroke="#2a8f88" stroke-opacity=".5" stroke-width="1.2" fill="none">
+    <path d="M980 80 L1060 120 L1130 90 M1060 120 L1040 200 L1120 220 M1040 200 L960 180 L980 80 M1130 90 L1120 220"/>
+  </g>
+  <g fill="#5fd1c6">
+    <circle cx="980" cy="80" r="4"/><circle cx="1060" cy="120" r="5"/><circle cx="1130" cy="90" r="3.5"/>
+    <circle cx="1040" cy="200" r="4.5"/><circle cx="1120" cy="220" r="3.5"/><circle cx="960" cy="180" r="3"/>
+  </g>
+</svg>
