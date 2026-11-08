@@ -13,10 +13,10 @@
 
 ###
 
-### 🔭 What I'm working on
+### 🔭 Projects
 
-- 🧩 **[Strix](https://github.com/usestrix/strix)** – open-source AI pentesting tool. [PR #1663](https://github.com/usestrix/strix/pull/1663): fixed LLM connection failures with Mistral reasoning models and OpenAI-compatible servers that return content as lists of blocks
 - 📧 **SentinelMail** – AI-powered email threat detection & forensics platform, Smart India Hackathon 2026 (team HopZero)
+- 🧩 Opened [PR #1663](https://github.com/usestrix/strix/pull/1663) on [Strix](https://github.com/usestrix/strix) (open-source AI pentesting tool) to fix LLM connection failures with Mistral reasoning models
 
 ### 🎓 Certifications
 
