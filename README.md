@@ -1,50 +1,60 @@
 <div align="center">
-
-# Abhinav Rajesh
-
-**Offensive Security · OSINT · Reverse Engineering · Backend Development**
-
-B.Tech CSE @ Vel Tech, Chennai · Director of Operations @ [OSINTNova](https://osintnova.com) · Head, CyberSentinel Club
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-localhostexe-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/localhostexe)
-[![OSINTNova](https://img.shields.io/badge/OSINTNova-osintnova.com-111827?style=flat-square)](https://osintnova.com)
-[![Discord](https://img.shields.io/badge/Discord-goofisded-5865F2?style=flat-square&logo=discord&logoColor=white)](#)
-
+  <img src="./assets/banner.svg" width="100%" alt="localhost.exe" />
 </div>
 
----
+<h1 align="center">👾 Hey, I'm Abhinav</h1>
 
-### About
+<h4 align="left">🛰️ Director of Operations @ <a href="https://osintnova.com">OSINTNova</a><br>🛡️ Head of the CyberSentinel Club @ VelTech<br>⚖️ Chief of Projects Moderation @ <a href="https://www.firstdecree.org">The First Decree</a><br>🔍 OSINT · Penetration Testing · Reverse Engineering<br>🛠️ Backend development & open-source security tooling</h4>
 
-I'm a Computer Science undergraduate focused on offensive security and building secure systems.
+<div align="left">
+<a href="https://www.linkedin.com/in/localhostexe" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=goofisded&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord" /></a>
+<a href="https://osintnova.com" target="_blank"><img src="https://img.shields.io/static/v1?message=OSINTNova&label=&color=111827&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="osintnova" /></a>
+</div>
 
-- **OSINTNova** – Director of Operations: run community and team operations, grow the team, and build partnerships around OSINT and security work
-- **First Decree** – Chief of Projects Moderation
-- **CyberSentinel Club, VelTech** – Head: teach students from beginner to advanced level through hands-on sessions
+###
 
-### Current work
+### 🔭 What I'm working on
 
-| Project | What it is |
-| --- | --- |
-| [**Strix**](https://github.com/usestrix/strix) – open-source contribution | Fixed LLM connection failures with Mistral reasoning models and other OpenAI-compatible servers that return message content as a list of blocks ([PR #1663](https://github.com/usestrix/strix/pull/1663)) |
-| **SentinelMail** – Smart India Hackathon 2026 | AI-powered email threat detection and forensics platform, built with team HopZero (PS SIH26106, Cybersecurity) |
+- 🧩 **[Strix](https://github.com/usestrix/strix)** – open-source AI pentesting tool. [PR #1663](https://github.com/usestrix/strix/pull/1663): fixed LLM connection failures with Mistral reasoning models and OpenAI-compatible servers that return content as lists of blocks
+- 📧 **SentinelMail** – AI-powered email threat detection & forensics platform, Smart India Hackathon 2026 (team HopZero)
 
-### Focus areas
+### 🎓 Certifications
 
-`Penetration Testing` `OSINT` `Reverse Engineering` `Email Security` `Backend Development`
+- 🏴 [Foundations of Ethical Hacking](https://www.hacksmarter.org/completion/19c0f8e6219d697c) · [Challenge Lab: Walnut](https://www.hacksmarter.org/completion/721dccf12a37c209) · [Challenge Lab: Kitsune](https://www.hacksmarter.org/completion/a0d118fa3a7f9946) – Hack Smarter Labs
 
-### Tech
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,go,rust,js,ruby,cs,linux&theme=dark" />
-
-### Certifications
-
-- Foundations of Ethical Hacking – [Hack Smarter Labs](https://www.hacksmarter.org/completion/19c0f8e6219d697c)
-- Challenge Lab: Walnut – [Hack Smarter Labs](https://www.hacksmarter.org/completion/721dccf12a37c209)
-- Challenge Lab: Kitsune – [Hack Smarter Labs](https://www.hacksmarter.org/completion/a0d118fa3a7f9946)
-
----
+###
 
 <div align="center">
-<sub>Open to security internships, research collaborations and CTF teams.</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="50" alt="rust" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50" alt="ruby" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux" />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/localhostdotexe/localhostdotexe/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/localhostdotexe/localhostdotexe/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/localhostdotexe/localhostdotexe/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=localhostdotexe.localhostdotexe&left_color=%230d2236&right_color=%235fd1c6&left_text=visitors" />
+
+###
