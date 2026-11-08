@@ -20,7 +20,7 @@
 
 ### 🎓 Certifications
 
-- 🏴 [Foundations of Ethical Hacking](https://www.hacksmarter.org/completion/19c0f8e6219d697c) · [Challenge Lab: Walnut](https://www.hacksmarter.org/completion/721dccf12a37c209) · [Challenge Lab: Kitsune](https://www.hacksmarter.org/completion/a0d118fa3a7f9946) – Hack Smarter Labs
+- 🏴 [Foundations of Ethical Hacking](https://www.hacksmarter.org/completion/19c0f8e6219d697c) · [Challenge Lab: Walnut](https://www.hacksmarter.org/completion/721dccf12a37c209) · [Challenge Lab: Kitsune](https://www.hacksmarter.org/completion/a0d118fa3a7f9946) – [Hack Smarter Labs](https://www.hacksmarter.org/learners/a669e015-46b4-41f3-832b-cb2b4bc7de82)
 
 ###
 
