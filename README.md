@@ -9,7 +9,7 @@
 <div align="left">
 <a href="https://www.linkedin.com/in/localhostexe" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=goofisded&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord" /></a>
-<a href="https://osintnova.com" target="_blank"><img src="https://img.shields.io/badge/OSINTNova-111827?style=for-the-badge" height="25" alt="osintnova" /></a>
+<a href="https://osintnova.com" target="_blank"><img src="https://img.shields.io/static/v1?message=OSINTNova&logo=googlechrome&label=&color=111827&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="osintnova" /></a>
 </div>
 
 ###
