@@ -10,6 +10,7 @@
 <a href="https://www.linkedin.com/in/localhostexe" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?message=localhost.exe&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord" /></a>
 <a href="https://profile.hackthebox.com/profile/019f052f-749f-736d-9b77-1ffd6e059446" target="_blank"><img src="https://img.shields.io/static/v1?message=Hack%20The%20Box&logo=hackthebox&label=&color=9FEF00&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="hackthebox" /></a>
+<a href="https://www.hackerrank.com/profile/localhostexe" target="_blank"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank" /></a>
 </div>
 
 ###
