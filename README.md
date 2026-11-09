@@ -4,7 +4,7 @@
 
 <h1 align="center">👾 Hey, I'm Abhinav</h1>
 
-<h4 align="left">🛰️ Director of Operations @ <a href="https://osintnova.com">OSINTNova</a><br>🛡️ Head of the CyberSentinel Club @ VelTech<br>⚖️ Chief of Projects Moderation @ <a href="https://www.firstdecree.org">The First Decree</a><br>🔍 OSINT · Penetration Testing · Reverse Engineering<br>🛠️ Backend development & open-source security tooling</h4>
+<h4 align="left">🛰️ Director of Operations @ <a href="https://osintnova.com">OSINTNova</a><br>🛡️ Head of the CyberSentinel Club @ VelTech<br>⚖️ Chief of Projects Moderation @ <a href="https://www.firstdecree.org">The First Decree</a><br>🔍 OSINT · Penetration Testing · Active Directory · Reverse Engineering<br>🛠️ Backend development & open-source security tooling</h4>
 
 <div align="left">
 <a href="https://www.linkedin.com/in/localhostexe" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" /></a>
@@ -22,7 +22,7 @@
 
 ### 🎓 Certifications
 
-- 🏴 [Foundations of Ethical Hacking](https://www.hacksmarter.org/completion/19c0f8e6219d697c) · [Challenge Lab: Walnut](https://www.hacksmarter.org/completion/721dccf12a37c209) · [Challenge Lab: Kitsune](https://www.hacksmarter.org/completion/a0d118fa3a7f9946) – [Hack Smarter Labs](https://www.hacksmarter.org/learners/a669e015-46b4-41f3-832b-cb2b4bc7de82)
+- 🏴 [Foundations of Ethical Hacking](https://www.hacksmarter.org/completion/19c0f8e6219d697c) · [Challenge Lab: Walnut](https://www.hacksmarter.org/completion/721dccf12a37c209) · [Challenge Lab: Kitsune](https://www.hacksmarter.org/completion/a0d118fa3a7f9946) · [Challenge Lab: Millennium (Medium, AD)](https://www.hacksmarter.org/completion/a08a30bd4f5d29ec) – [Hack Smarter Labs](https://www.hacksmarter.org/learners/a669e015-46b4-41f3-832b-cb2b4bc7de82)
 
 ###
 
